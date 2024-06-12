@@ -4,8 +4,8 @@
   I am currently a Java SWE working at NextLabs Inc.
   
   I'm a software engineer passionate about solving problems and making a positive impact. 
-  My goal is to create innovative solutions that drive change while advancing my own software development technology skills. 
-  Let's work together to create a better future with technology.
+  My goal is to create innovative solutions that drive change while advancing my own software 
+  development technology skills. Let's work together to create a better future with technology.
   
   SKILLS
   Prog Languages      ---> Java, C++, JavaScript, Python, Kotlin
